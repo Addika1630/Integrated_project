@@ -32,12 +32,12 @@
     <img src="images/logo1.PNG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Integrated Project Maji Ndogo</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Exploratory Data Analysis (EDA) of Maji Ndogo!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Addika1630/Integrated_project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
