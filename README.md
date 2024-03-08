@@ -129,7 +129,7 @@ Follow these steps to get a local copy up and running:
    ```
 2. Install packages
      ```sh
-  pip install seaborn matplotlib pandas
+  pip install seaborn
   ```
   ```sh
   pip install matplotlib
