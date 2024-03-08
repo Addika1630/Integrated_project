@@ -24,7 +24,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[LinkedIn](https://www.linkedin.com/in/addisu-mulat-133838255/)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/addisu-mulat-133838255/)
 
 <!-- PROJECT LOGO -->
 <br />
