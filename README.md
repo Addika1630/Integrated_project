@@ -111,34 +111,32 @@ Here are a few examples.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Welcome to the Maji Ndogo project! This README provides instructions on setting up the project locally.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Before you begin, ensure you have the following installed:
+ * python: Install Python
+ * seaborn, matplotlib, pandas: Install using pip.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Follow these steps to get a local copy up and running:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Addika1630/Integrated_project.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Install packages
+     ```sh
+  pip install seaborn matplotlib pandas
+  ```
+  ```sh
+  pip install matplotlib
+  ```
+  ```sh
+  pip install pandas
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
