@@ -90,11 +90,7 @@ In a project centered on Maji Ndogo, I embarked on a comprehensive data analysis
 * Leveraging Python's powerful data visualization libraries, I crafted compelling visualizations that effectively communicated the dataset's insights.
 * Finally, I designed and implemented a data pipeline to automate data processing tasks, enhancing efficiency and maintaining consistency in data handling   processes.
 
-
-
-
-
-
+<br>
 
 
 ### Built With
