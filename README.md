@@ -128,7 +128,7 @@ Follow these steps to get a local copy up and running:
    git clone https://github.com/Addika1630/Integrated_project.git
    ```
 2. Install packages
-     ```sh
+  ```sh
   pip install seaborn
   ```
   ```sh
