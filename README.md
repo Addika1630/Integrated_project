@@ -83,7 +83,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/Addika1630/Integrated_project/blob/main/images/screenshot1.png)
 
-In a project centered on Maji Ndogo, I embarked on a comprehensive data analysis journey that encompassed various key aspects. Beginning with exploratory data analysis (EDA), I delved deep into the dataset to understand its nuances and underlying patterns. Subsequently, I meticulously cleaned the data, addressing missing values and inconsistencies to ensure its integrity. Leveraging Python's powerful data visualization libraries, I crafted compelling visualizations that effectively communicated the dataset's insights. Finally, I designed and implemented a data pipeline to automate data processing tasks, enhancing efficiency and maintaining consistency in data handling processes.
+In a project centered on Maji Ndogo, I embarked on a comprehensive data analysis journey that encompassed various key aspects:
+
+* Beginning with exploratory data analysis (EDA), I delved deep into the dataset to understand its nuances and underlying patterns.
+* Subsequently, I meticulously cleaned the data, addressing missing values and inconsistencies to ensure its integrity.
+* Leveraging Python's powerful data visualization libraries, I crafted compelling visualizations that effectively communicated the dataset's insights.
+* Finally, I designed and implemented a data pipeline to automate data processing tasks, enhancing efficiency and maintaining consistency in data handling   processes.
 
 
 
