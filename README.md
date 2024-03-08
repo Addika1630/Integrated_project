@@ -142,16 +142,6 @@ Follow these steps to get a local copy up and running:
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- CONTRIBUTING -->
@@ -184,7 +174,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Addisu Mulat - [@your_twitter](https://twitter.com/AddisuMulat2) - addisu05mulat@gmail.com
+Addisu Mulat - [@twitter](https://twitter.com/AddisuMulat2) - addisu05mulat@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/Addika1630/Integrated_project)
 
@@ -195,16 +185,16 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ad
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+## Acknowledgments
+
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+
+* [Seaborn](https://seaborn.pydata.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* [Medium Published Notes](https://medium.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
