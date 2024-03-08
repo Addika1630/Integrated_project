@@ -23,7 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][https://www.linkedin.com/in/addisu-mulat-133838255/]][linkedin-url]
+[![LinkedIn][linkedin-sheild]][linkedin-url]
 
 
 
