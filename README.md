@@ -21,7 +21,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]](https://github.com/Addika1630/Integrated_project/issues)
 [![MIT License][license-shield]](https://github.com/Addika1630/Integrated_project/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/addisu-mulat-133838255/)
 
