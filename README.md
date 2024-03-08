@@ -128,15 +128,15 @@ Follow these steps to get a local copy up and running:
    git clone https://github.com/Addika1630/Integrated_project.git
    ```
 2. Install packages
-  ```sh
-  pip install seaborn
-  ```
-  ```sh
-  pip install matplotlib
-  ```
-  ```sh
-  pip install pandas
-  ```
+    ```sh
+    pip install seaborn
+    ```
+    ```sh
+    pip install matplotlib
+    ```
+    ```sh
+    pip install pandas
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,22 +151,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -191,7 +175,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,9 +184,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Addisu Mulat - [@your_twitter](https://twitter.com/AddisuMulat2) - addisu05mulat@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Addika1630/Integrated_project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
